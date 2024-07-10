@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "new-landing-ge",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../landing-page-general/landing-page-general-elevadores/images"
+		},
+		{
+			"name": "fonts",
+			"path": "../../landing-page-general/landing-page-general-elevadores/fonts"
+		}
+	],
+	"settings": {}
+}
